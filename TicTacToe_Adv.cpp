@@ -75,6 +75,7 @@ int main() {
         if(!check(vec))break;
         system("cls");
         board(vec);
+        i++;
     }
     
 }
